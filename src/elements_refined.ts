@@ -411,7 +411,7 @@ function c_lattice_angles(angles: string): [string, string, string]  | undefined
         throw `c_lattice_angles: ${angles} did not expect a length of ${list.length}`
     const e1 = list[0] ?? "N/A"
     const e2 = list[1] ?? "N/A"
-    const e3 = list[3] ?? "N/A"
+    const e3 = list[2] ?? "N/A"
     return [e1, e2, e3]
 }
 
