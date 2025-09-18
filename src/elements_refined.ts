@@ -1,33 +1,7 @@
 import type { PTDCElementRaw } from "./elements_raw";
 import { write_ptdc_data_refined } from "./filesystem_integration";
-import { UNITS, type MeasurementUnits } from "./units";
+import { Block, Color, CrystalStructure, DecayMode, ElectricalType, GasAtomicMultiplicities, MagneticType, Phase, Series, UNITS, type IsotopicAbundance, type MaybeNumber, type MeasurementUnits } from "./units";
 
-export type MaybeNumber = number | "N/A"
-export const Phase = [ "", "gas", "liquid", "solid"] as const
-export type Phase = typeof Phase[number]
-export const GasAtomicMultiplicities = ["", "diatomic", "monoatomic"] as const
-export type GasAtomicMultiplicities = typeof GasAtomicMultiplicities[number]
-export const Series = ["actinide", "alkali_metal", "alkali_earth_metal", "chalcogen", "halogen", "lanthanide",
-    "noble_gas", "metalloid", "non_metal", "poor_metal", "transition_metal"] as const
-export type Series = typeof Series[number]
-export const Color = ["", "colorless", "silver", "slate_gray", "black", "gray", "yellow", "copper", "red", "gold" ] as const
-export type Color = typeof Color[number]
-export const ElectricalType =  ["", "conductor", "insulator", "semiconductor" ] as const
-export type ElectricalType = typeof ElectricalType[number]
-export const MagneticType = ["", "diamagnetic", "paramagnetic", "antiferromagnetic", "ferromagnetic"] as const
-export type MagneticType = typeof MagneticType[number]
-export const CrystalStructure = ["", "simple_hexagonal", "simple_trigonal", "face_centered_cubic", "body_centered_cubic",
-    "base_centered_monoclinic", "tetrahedral_packing", "simple_triclinic", "face_centered_orthorhombic", "base_orthorhombic",
-    "simple_monoclinic", "simple_orthorhombic"] as const
-export type CrystalStructure = typeof CrystalStructure[number]
-export const DecayMode = ["", "beta_decay", "electron_capture", "alpha_emission", "beta_plus_decay" ] as const
-export type DecayMode = typeof DecayMode[number]
-export const Block = ["", "s", "p", "d", "f"] as const
-export type Block = typeof Block[number]
-export type IsotopicAbundance = {
-    isotope: string,
-    percent: number
-}
 export type PTDCElementRefined = {
     name: string,
     symbol: string
