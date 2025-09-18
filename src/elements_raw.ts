@@ -347,31 +347,9 @@ function scrap_data_from_html(html_text: string): PTDCElementRaw{
     } satisfies PTDCElementRaw
 }
 
-export async function periodictabledotcom_data(numbers_of_elements = 118, fetch_from_ptdc = false){
-    const elements_data: PTDCElementRaw[] = []
-    for (let i = 0; i < numbers_of_elements; i++){
-        const element_id = i + 1
-        const filepath = `element_${element_id}.html`
-        if (fetch_from_ptdc){
-            const url =  get_periodictable_dotcom_data_url(element_id)
-            console.log(`fetching: ${url}`)
-            const textdata = await fetch_html_data(url)
-            await write_to_cache(filepath, textdata)
-            continue
-        }
-        const text_html = await get_data_from_cache(filepath)
-        try{
-            elements_data.push(scrap_data_from_html(text_html))
-        } catch(e){
-            console.warn(`failed to get element ${element_id}:  ${e}`)
-        }
-    }
-    write_ptdc_data_raw(elements_data)
-    return elements_data
-}
-
 
 async function fetch_html_data(url: string): Promise<string>{
+    console.log(`fetching: ${url}`)
     return new Promise((resolve, reject)=>{
         fetch(url)
         .then((response)=>{
@@ -390,3 +368,29 @@ async function fetch_html_data(url: string): Promise<string>{
         })
     })
 }
+
+export async function download_periodictabledotcom_data_to_cache(start_from = 1, end_at = 118){
+    for (let i = start_from; i <= end_at; i++){
+        const element_id = i + 1
+        const filepath = `element_${element_id}.html`
+        const url =  get_periodictable_dotcom_data_url(element_id)
+        const textdata = await fetch_html_data(url)
+        await write_to_cache(filepath, textdata)
+    }
+}
+
+export async function scrap_periodictabledotcom_data_from_cache(start_from = 1, end_at = 118){
+    const elements_data: PTDCElementRaw[] = []
+    for (let i = start_from; i <= end_at; i++){
+        const element_id = i + 1
+        const filepath = `element_${element_id}.html`
+        const text_html = await get_data_from_cache(filepath)
+        try{
+            elements_data.push(scrap_data_from_html(text_html))
+        } catch(e){
+            console.warn(`failed to get element ${element_id}:  ${e}`)
+        }
+    }
+    write_ptdc_data_raw(elements_data)
+}
+
