@@ -1,5 +1,6 @@
 import type { PTDCElementRaw } from "./elements_raw"
-import type { PTDCElementRefined, UnitsMap } from "./elements_refined"
+import type { PTDCElementRefined } from "./elements_refined"
+import type { UnitsMap } from "./units"
 
 const CACHE_PATH = "./cache/"
 const PTDC_DATA_RAW = "./data/raw.json"
