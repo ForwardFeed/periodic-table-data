@@ -1,11 +1,14 @@
 # periodic-table-data
-JSON data for the periodic table of elements. With a web scrapper of https://periodictable.com/.
+Serialized data for the periodic table of elements. With a web scrapper of https://periodictable.com/.
 
 
 ## What is it?
 
 This project scraps the https://periodictable.com/ website.
-And then makes
+And then makes a serialized format into a file into /data
+there's:
+- raw.json, a raw version that serves as intermediary between the scrapping and refining
+- refined.json, a version refined, wich gives numbers that then can be used without having to parse it.
 
 ## How to use it?
 
