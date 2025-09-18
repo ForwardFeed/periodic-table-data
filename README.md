@@ -55,6 +55,9 @@ bun dev -- -e 10 --end 10
 
 I am completely unrelated to https://periodictable.com/, however I thank them.
 
+If you like this project, you should give a look at [komed3/periodic-table](https://github.com/komed3/periodic-table)
+
 If you see a mistake in my scrapping, please notify me using the issues of git.
 
 If you want to add a new format other than JSON, feel free to contribute.
+
