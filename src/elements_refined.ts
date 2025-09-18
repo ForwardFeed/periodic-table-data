@@ -3,8 +3,8 @@ import { write_ptdc_data_refined } from "./filesystem_integration";
 
 type MeasurementUnits = "" | "amu" | "g/cm3" | "g/l" | "°C" | "K" | "MPa"| "kJ/mol" | "J/(kg K)" | "W/(m K)" | "1/K" | "m³/mol" | "GPa" | "m/s" |
     "S/m" | "Ω m" | "m³/kg" | "%" | "pm" | "b" | "m²/kg"
-
-export const UNITS: {[key in  keyof PTDCElementRefined ]: MeasurementUnits | MeasurementUnits[]} = {
+export type UnitsMap =  {[key in  keyof PTDCElementRefined ]: MeasurementUnits | MeasurementUnits[]}
+export const UNITS: UnitsMap = {
     symbol: "",
     name: "",
     atomic_number: "",

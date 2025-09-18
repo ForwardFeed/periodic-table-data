@@ -5,8 +5,8 @@
  */
 
 import { download_periodictabledotcom_data_to_cache, scrap_periodictabledotcom_data_from_cache } from "./elements_raw"
-import { refine_ptdc_elements } from "./elements_refined"
-import { get_ptdc_data_raw } from "./filesystem_integration"
+import { refine_ptdc_elements, UNITS } from "./elements_refined"
+import { get_ptdc_data_raw, write_units_file } from "./filesystem_integration"
 
 
 const args = Bun.argv.slice(2)
@@ -51,10 +51,11 @@ if (refined_only){
 }
 const no_download = !!~args.indexOf("-n") || !!~args.indexOf("--no-download")
 if (no_download) {
-    console.log("skipping the download: -> raw -> refined")
+    console.log("skipping the download: -> raw -> refined -> write units")
 } else {
-    console.log("doing the full process download -> cache -> raw -> refined")
+    console.log("doing the full process download -> cache -> raw -> refined -> write units")
     await download_periodictabledotcom_data_to_cache(start_from,end_at)
 }
 await scrap_periodictabledotcom_data_from_cache(start_from, end_at)
 await refine_ptdc_elements(await get_ptdc_data_raw())
+await write_units_file(UNITS)

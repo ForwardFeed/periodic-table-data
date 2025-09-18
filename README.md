@@ -1,7 +1,6 @@
 # periodic-table-data
 Serialized data for the periodic table of elements. With a web scrapper of https://periodictable.com/.
-
-
+Right now there's only JSON format
 ## What is it?
 
 This project scraps the https://periodictable.com/ website.
@@ -9,6 +8,7 @@ And then makes a serialized format into a file into /data
 there's:
 - raw.json, a raw version that serves as intermediary between the scrapping and refining
 - refined.json, a version refined, wich gives numbers that then can be used without having to parse it.
+- units.json, giving what are the units used.
 
 ## How to use it?
 

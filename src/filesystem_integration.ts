@@ -1,9 +1,10 @@
 import type { PTDCElementRaw } from "./elements_raw"
-import type { PTDCElementRefined } from "./elements_refined"
+import type { PTDCElementRefined, UnitsMap } from "./elements_refined"
 
 const CACHE_PATH = "./cache/"
 const PTDC_DATA_RAW = "./data/raw.json"
 const PTDC_DATA_REFINED = "./data/refined.json"
+const UNITS = "./data/units.json"
 
 export async function write_to_cache(filename: string, data:string){
     return Bun.write(CACHE_PATH+filename, data)
@@ -14,7 +15,7 @@ export async function get_data_from_cache(filename: string): Promise<string>{
 }
 
 export async function write_ptdc_data_raw(content: PTDCElementRaw[]){
-    Bun.write(PTDC_DATA_RAW, JSON.stringify(content, null, 2))
+    return Bun.write(PTDC_DATA_RAW, JSON.stringify(content, null, 2))
 }
 
 export async function get_ptdc_data_raw(): Promise<PTDCElementRaw[]>{
@@ -22,9 +23,13 @@ export async function get_ptdc_data_raw(): Promise<PTDCElementRaw[]>{
 }
 
 export async function write_ptdc_data_refined(content: PTDCElementRefined[]){
-    Bun.write(PTDC_DATA_REFINED, JSON.stringify(content, null, 2))
+    return Bun.write(PTDC_DATA_REFINED, JSON.stringify(content, null, 2))
 }
 
 export async function get_ptdc_data_refined(): Promise<PTDCElementRefined[]>{
     return Bun.file(PTDC_DATA_REFINED).json()
+}
+
+export async function write_units_file(units: UnitsMap) {
+    return Bun.write(UNITS, JSON.stringify(units, null, 2))
 }
