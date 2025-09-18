@@ -49,8 +49,12 @@ if (refined_only){
     await refine_ptdc_elements(await get_ptdc_data_raw())
     process.exit(0)
 }
-
-console.log("doing the full process download -> cache -> raw -> refined")
-await download_periodictabledotcom_data_to_cache(start_from,end_at)
+const no_download = !!~args.indexOf("-n") || !!~args.indexOf("--no-download")
+if (no_download) {
+    console.log("skipping the download: -> raw -> refined")
+} else {
+    console.log("doing the full process download -> cache -> raw -> refined")
+    await download_periodictabledotcom_data_to_cache(start_from,end_at)
+}
 await scrap_periodictabledotcom_data_from_cache(start_from, end_at)
 await refine_ptdc_elements(await get_ptdc_data_raw())

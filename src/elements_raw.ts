@@ -371,9 +371,8 @@ async function fetch_html_data(url: string): Promise<string>{
 
 export async function download_periodictabledotcom_data_to_cache(start_from = 1, end_at = 118){
     for (let i = start_from; i <= end_at; i++){
-        const element_id = i + 1
-        const filepath = `element_${element_id}.html`
-        const url =  get_periodictable_dotcom_data_url(element_id)
+        const filepath = `element_${i}.html`
+        const url =  get_periodictable_dotcom_data_url(i)
         const textdata = await fetch_html_data(url)
         await write_to_cache(filepath, textdata)
     }
@@ -382,13 +381,12 @@ export async function download_periodictabledotcom_data_to_cache(start_from = 1,
 export async function scrap_periodictabledotcom_data_from_cache(start_from = 1, end_at = 118){
     const elements_data: PTDCElementRaw[] = []
     for (let i = start_from; i <= end_at; i++){
-        const element_id = i + 1
-        const filepath = `element_${element_id}.html`
+        const filepath = `element_${i}.html`
         const text_html = await get_data_from_cache(filepath)
         try{
             elements_data.push(scrap_data_from_html(text_html))
         } catch(e){
-            console.warn(`failed to get element ${element_id}:  ${e}`)
+            console.warn(`failed to get element ${i}:  ${e}`)
         }
     }
     write_ptdc_data_raw(elements_data)
