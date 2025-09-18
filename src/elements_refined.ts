@@ -560,7 +560,7 @@ function convert_raw_to_refined(e: PTDCElementRaw): PTDCElementRefined{
 }
 
 
-export function refine_ptdc_elements(elements: PTDCElementRaw[]){
+export async function refine_ptdc_elements(elements: PTDCElementRaw[]){
     const refined_elements: PTDCElementRefined[] = elements.map(convert_raw_to_refined)
-    write_ptdc_data_refined(refined_elements)
+    await write_ptdc_data_refined(refined_elements)
 }
