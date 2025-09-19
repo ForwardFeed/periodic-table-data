@@ -438,7 +438,7 @@ function convert_raw_to_refined(e: PTDCElementRaw): PTDCElementRefined{
             crystal_structure: c_crystal_structure(e.crystal_structure),
             lattice_angles: c_lattice_angles(e.lattice_angles),
             lattice_constants: c_lattice_constant(e.lattice_constants),
-            space_group_name: "",
+            space_group_name: e.space_group_name,
             space_group_number: e.space_group_number,
             half_life: e.half_life,
             lifetime: e.lifetime,

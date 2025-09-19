@@ -81,7 +81,7 @@
       470,
       340
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -196,7 +196,7 @@
       424.2,
       424.2
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -314,7 +314,7 @@
       351,
       351
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -434,7 +434,7 @@
       228.58,
       358.43
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -552,7 +552,7 @@
       506,
       506
     ],
-    "space_group_name": "",
+    "space_group_name": "R_, 3m",
     "space_group_number": 166,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -678,7 +678,7 @@
       246.4,
       671.1
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -806,7 +806,7 @@
       386.1,
       626.5
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -936,7 +936,7 @@
       342.9,
       508.6
     ],
-    "space_group_name": "",
+    "space_group_name": "C12/m1",
     "space_group_number": 12,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -1073,7 +1073,7 @@
       328,
       728
     ],
-    "space_group_name": "",
+    "space_group_name": "C12/c1",
     "space_group_number": 15,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -1202,7 +1202,7 @@
       442.9,
       442.9
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -1342,7 +1342,7 @@
       429.06,
       429.06
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -1473,7 +1473,7 @@
       320.94,
       521.08
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -1616,7 +1616,7 @@
       404.95,
       404.95
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -1749,7 +1749,7 @@
       543.09,
       543.09
     ],
-    "space_group_name": "",
+    "space_group_name": "Fd_, 3m",
     "space_group_number": 227,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -1893,7 +1893,7 @@
       550.3,
       1126.1
     ],
-    "space_group_name": "",
+    "space_group_name": "P-1",
     "space_group_number": 2,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -2027,7 +2027,7 @@
       1284.5,
       2436.9
     ],
-    "space_group_name": "",
+    "space_group_name": "Fddd",
     "space_group_number": 70,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -2177,7 +2177,7 @@
       445.61,
       817.85
     ],
-    "space_group_name": "",
+    "space_group_name": "Cmca",
     "space_group_number": 64,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -2317,7 +2317,7 @@
       525.6,
       525.6
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -2462,7 +2462,7 @@
       532.8,
       532.8
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -2607,7 +2607,7 @@
       558.84,
       558.84
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -2777,7 +2777,7 @@
       330.9,
       527.33
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -2924,7 +2924,7 @@
       295.08,
       468.55
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -3092,7 +3092,7 @@
       303,
       303
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -3244,7 +3244,7 @@
       291,
       291
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -3407,7 +3407,7 @@
       891.25,
       891.25
     ],
-    "space_group_name": "",
+    "space_group_name": "I_, 43m",
     "space_group_number": 217,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -3555,7 +3555,7 @@
       286.65,
       286.65
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -3720,7 +3720,7 @@
       250.71,
       406.95
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -3871,7 +3871,7 @@
       352.4,
       352.4
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -4044,7 +4044,7 @@
       361.49,
       361.49
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -4200,7 +4200,7 @@
       266.49,
       494.68
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -4355,7 +4355,7 @@
       766.33,
       452.6
     ],
-    "space_group_name": "",
+    "space_group_name": "Cmca",
     "space_group_number": 64,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -4497,7 +4497,7 @@
       565.75,
       565.75
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -4655,7 +4655,7 @@
       375.98,
       1054.75
     ],
-    "space_group_name": "",
+    "space_group_name": "R_, 3m",
     "space_group_number": 166,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -4796,7 +4796,7 @@
       908.3,
       1160.1
     ],
-    "space_group_name": "",
+    "space_group_name": "P121/c1",
     "space_group_number": 14,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -4959,7 +4959,7 @@
       464.51,
       870.23
     ],
-    "space_group_name": "",
+    "space_group_name": "Cmca",
     "space_group_number": 64,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -5117,7 +5117,7 @@
       570.6,
       570.6
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -5285,7 +5285,7 @@
       558.5,
       558.5
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -5432,7 +5432,7 @@
       608.49,
       608.49
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -5591,7 +5591,7 @@
       364.74,
       573.06
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -5731,7 +5731,7 @@
       323.2,
       514.7
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -5891,7 +5891,7 @@
       330.04,
       330.04
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -6046,7 +6046,7 @@
       314.7,
       314.7
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -6212,7 +6212,7 @@
       273.5,
       438.8
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "211098.4271943 y",
     "lifetime": "6.024860476915×106 y",
@@ -6350,7 +6350,7 @@
       270.59,
       428.15
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -6518,7 +6518,7 @@
       380.34,
       380.34
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -6656,7 +6656,7 @@
       389.07,
       389.07
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -6819,7 +6819,7 @@
       408.53,
       408.53
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -6966,7 +6966,7 @@
       297.94,
       561.86
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -7142,7 +7142,7 @@
       325.23,
       494.61
     ],
-    "space_group_name": "",
+    "space_group_name": "I4/mmm",
     "space_group_number": 139,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -7291,7 +7291,7 @@
       583.18,
       318.19
     ],
-    "space_group_name": "",
+    "space_group_name": "I41/amd",
     "space_group_number": 141,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -7482,7 +7482,7 @@
       430.7,
       1127.3
     ],
-    "space_group_name": "",
+    "space_group_name": "R_, 3m",
     "space_group_number": 166,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -7632,7 +7632,7 @@
       445.72,
       592.9
     ],
-    "space_group_name": "",
+    "space_group_name": "P3121",
     "space_group_number": 152,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -7806,7 +7806,7 @@
       471.02,
       981.03
     ],
-    "space_group_name": "",
+    "space_group_name": "Cmca",
     "space_group_number": 64,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -7947,7 +7947,7 @@
       620.23,
       620.23
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -8129,7 +8129,7 @@
       614.1,
       614.1
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -8273,7 +8273,7 @@
       502.8,
       502.8
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -8449,7 +8449,7 @@
       377.2,
       1214.4
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -8599,7 +8599,7 @@
       362,
       599
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -8759,7 +8759,7 @@
       367.25,
       1183.54
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -8903,7 +8903,7 @@
       365.8,
       1179.9
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -9064,7 +9064,7 @@
     "radius_covalent": 199,
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "17.72577371892 y",
     "lifetime": "25.55809233891 y",
@@ -9207,7 +9207,7 @@
       362.1,
       2625
     ],
-    "space_group_name": "",
+    "space_group_name": "R_, 3m",
     "space_group_number": 166,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -9378,7 +9378,7 @@
       458.1,
       458.1
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -9526,7 +9526,7 @@
       363.6,
       578.26
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -9696,7 +9696,7 @@
       360.1,
       569.36
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -9837,7 +9837,7 @@
       359.3,
       565.37
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -10008,7 +10008,7 @@
       357.73,
       561.58
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -10149,7 +10149,7 @@
       355.88,
       558.74
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -10314,7 +10314,7 @@
       353.75,
       555.46
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -10454,7 +10454,7 @@
       548.47,
       548.47
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -10625,7 +10625,7 @@
       350.31,
       555.09
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -10769,7 +10769,7 @@
       319.64,
       505.11
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -10932,7 +10932,7 @@
       330.13,
       330.13
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -11071,7 +11071,7 @@
       316.52,
       316.52
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -11231,7 +11231,7 @@
       276.1,
       445.6
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -11373,7 +11373,7 @@
       273.44,
       431.73
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -11540,7 +11540,7 @@
       383.9,
       383.9
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -11684,7 +11684,7 @@
       392.42,
       392.42
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -11848,7 +11848,7 @@
       407.82,
       407.82
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -11989,7 +11989,7 @@
       300.5,
       300.5
     ],
-    "space_group_name": "",
+    "space_group_name": "R_, 3m",
     "space_group_number": 166,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -12163,7 +12163,7 @@
       345.66,
       552.48
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -12311,7 +12311,7 @@
       495.08,
       495.08
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "Stable",
     "lifetime": "Stable",
@@ -12471,7 +12471,7 @@
       611.7,
       330.4
     ],
-    "space_group_name": "",
+    "space_group_name": "C12/m1",
     "space_group_number": 12,
     "half_life": "1.902587519026×1019 y",
     "lifetime": "2.758751902588×1019 y",
@@ -12609,7 +12609,7 @@
       335.9,
       335.9
     ],
-    "space_group_name": "",
+    "space_group_name": "Pm-3m",
     "space_group_number": 221,
     "half_life": "102.1055301877 y",
     "lifetime": "147.1334348047 y",
@@ -12734,7 +12734,7 @@
     "radius_covalent": 150,
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "8.055555555556 h",
     "lifetime": "11.66666666667 h",
@@ -12857,7 +12857,7 @@
     "radius_covalent": 150,
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "3.82349537037 d",
     "lifetime": "5.516087962963 d",
@@ -12983,7 +12983,7 @@
     "radius_covalent": 260,
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "21.66666666667 m",
     "lifetime": "31.66666666667 m",
@@ -13120,7 +13120,7 @@
       514.8,
       514.8
     ],
-    "space_group_name": "",
+    "space_group_name": "Im_, 3m",
     "space_group_number": 229,
     "half_life": "1585.489599188 y",
     "lifetime": "2314.814814815 y",
@@ -13256,7 +13256,7 @@
       567,
       567
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "21.78652968037 y",
     "lifetime": "31.43106291223 y",
@@ -13392,7 +13392,7 @@
       508.42,
       508.42
     ],
-    "space_group_name": "",
+    "space_group_name": "Fm_, 3m",
     "space_group_number": 225,
     "half_life": "1.40601217656×1010 y",
     "lifetime": "2.028475393201×1010 y",
@@ -13524,7 +13524,7 @@
       392.5,
       323.8
     ],
-    "space_group_name": "",
+    "space_group_name": "I4/mmm",
     "space_group_number": 139,
     "half_life": "32787.92491121 y",
     "lifetime": "47279.29984779 y",
@@ -13656,7 +13656,7 @@
       586.95,
       495.48
     ],
-    "space_group_name": "",
+    "space_group_name": "Cmcm",
     "space_group_number": 63,
     "half_life": "4.471080669711×109 y",
     "lifetime": "6.449771689498×109 y",
@@ -13792,7 +13792,7 @@
       472.3,
       488.7
     ],
-    "space_group_name": "",
+    "space_group_name": "Pnma",
     "space_group_number": 62,
     "half_life": "2.145484525622×106 y",
     "lifetime": "3.095192795535×106 y",
@@ -13914,7 +13914,7 @@
       482.2,
       1096.3
     ],
-    "space_group_name": "",
+    "space_group_name": "P121/m1",
     "space_group_number": 11,
     "half_life": "7.927447995941×107 y",
     "lifetime": "1.141552511416×108 y",
@@ -14036,7 +14036,7 @@
       346.81,
       1124.1
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "7388.381532217 y",
     "lifetime": "10654.49010654 y",
@@ -14157,7 +14157,7 @@
       349.6,
       1133.1
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "1.560121765601×107 y",
     "lifetime": "2.251395230847×107 y",
@@ -14279,7 +14279,7 @@
       341.6,
       1106.9
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "1379.375951294 y",
     "lifetime": "1991.37493658 y",
@@ -14401,7 +14401,7 @@
       338,
       1102.5
     ],
-    "space_group_name": "",
+    "space_group_name": "P63/mmc",
     "space_group_number": 194,
     "half_life": "900.5580923389 y",
     "lifetime": "1300.101471334 y",
@@ -14513,7 +14513,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "1.292174023338 y",
     "lifetime": "1.864535768645 y",
@@ -14624,7 +14624,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "100.4976851852 d",
     "lifetime": "145.0231481481 d",
@@ -14735,7 +14735,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "51.50462962963 d",
     "lifetime": "74.30555555556 d",
@@ -14845,7 +14845,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "2.777777777778 h",
     "lifetime": "5.555555555556 h",
@@ -14952,7 +14952,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "10 h",
     "lifetime": "14.44444444444 h",
@@ -15058,7 +15058,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "13.05555555556 h",
     "lifetime": "18.88888888889 h",
@@ -15164,7 +15164,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "5.555555555556 h",
     "lifetime": "8.333333333333 h",
@@ -15270,7 +15270,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "1.944444444444 h",
     "lifetime": "2.777777777778 h",
@@ -15376,7 +15376,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "1.5 h",
     "lifetime": "2.166666666667 h",
@@ -15482,7 +15482,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "1.111111111111 h",
     "lifetime": "1.388888888889 h",
@@ -15587,7 +15587,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "30 m",
     "lifetime": "43.33333333333 m",
@@ -15692,7 +15692,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "4 m",
     "lifetime": "5.833333333333 m",
@@ -15797,7 +15797,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "10 m",
     "lifetime": "14.5 m",
@@ -15899,7 +15899,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "40 m",
     "lifetime": "58.33333333333 m",
@@ -15998,7 +15998,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "20 m",
     "lifetime": "28.33333333333 m",
@@ -16093,7 +16093,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "1.316666666667 m",
     "lifetime": "2 m",
@@ -16188,7 +16188,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "1 m",
     "lifetime": "1.5 m",
@@ -16283,7 +16283,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "120 ms",
     "lifetime": "173 ms",
@@ -16377,7 +16377,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "50 ms",
     "lifetime": "72 ms",
@@ -16471,7 +16471,7 @@
     "radius_covalent": "N/A",
     "radius_van_der_waals": "N/A",
     "crystal_structure": "",
-    "space_group_name": "",
+    "space_group_name": "N/A",
     "space_group_number": null,
     "half_life": "5 ms",
     "lifetime": "7 ms",
