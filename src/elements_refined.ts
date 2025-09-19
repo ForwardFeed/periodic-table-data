@@ -98,7 +98,7 @@ function c_phase(str: string): Phase{
         case "Solid":
             return "solid"
         case "N/A":
-            return ""
+            return "N/A"
         default:
             throw `unknow c_phase: ${str}`
     }
@@ -106,7 +106,7 @@ function c_phase(str: string): Phase{
 function c_gas_phase(str: string): GasAtomicMultiplicities{
     switch (str){
         case "N/A":
-            return ""
+            return "N/A"
         case "Diatomic":
             return "diatomic"
         case "Monoatomic":
@@ -147,7 +147,7 @@ function c_series(str: string): Series{
 function c_color(str: string): Color{
     switch (str){
         case "N/A":
-            return ""
+            return "N/A"
         case "Colorless":
             return "colorless"
         case "Silver":
@@ -173,7 +173,7 @@ function c_color(str: string): Color{
 function c_electrical_type(str: string): ElectricalType{
     switch (str){
         case "N/A":
-            return ""
+            return "N/A"
         case "Conductor":
             return "conductor"
         case "Insulator":
@@ -187,7 +187,7 @@ function c_electrical_type(str: string): ElectricalType{
 function c_magnetic_type(str: string): MagneticType{
     switch (str){
         case "N/A":
-            return ""
+            return "N/A"
         case "Diamagnetic":
             return "diamagnetic"
         case "Paramagnetic":
@@ -204,33 +204,33 @@ function c_magnetic_type(str: string): MagneticType{
 function c_crystal_structure(str: string): CrystalStructure{
     switch (str){
         case "Simple Hexagonal":
-            return ""
+            return "simple_hexagonal"
         case "Face-centered Cubic":
-            return ""
+            return "face_centered_cubic"
          case "Body-centered Cubic":
-            return ""
+            return "body_centered_cubic"
         case "Simple Trigonal":
-            return ""
+            return "simple_trigonal"
         case"Base-centered Monoclinic":
-            return ""
+            return "base_centered_monoclinic"
         case "Tetrahedral Packing":
-            return ""
+            return "tetrahedral_packing"
         case"Simple Triclinic":
-            return ""
+            return "simple_triclinic"
         case "Face-centered Orthorhombic":
-            return ""
+            return "face_centered_orthorhombic"
         case "Base Orthorhombic":
-            return ""
+            return "base_orthorhombic"
         case "Simple Monoclinic":
-            return ""
+            return "simple_monoclinic"
         case "Centered Tetragonal":
-            return ""
+            return "centered_tetragonal"
         case "N/A":
-            return ""
+            return "N/A"
         case "Simple Cubic":
-            return ""
+            return "simple_cubic"
         case"Simple Orthorhombic":
-            return ""
+            return "simple_orthorhombic"
         default:
             throw `unknown c_crystal_structure: ${str}` 
     }
@@ -238,7 +238,7 @@ function c_crystal_structure(str: string): CrystalStructure{
 function c_decay_mode(str: string): DecayMode{
     switch (str){
         case "N/A":
-            return ""
+            return "N/A"
         case "BetaDecay":
             return "beta_decay"
         case "ElectronCapture":
@@ -255,7 +255,7 @@ function c_decay_mode(str: string): DecayMode{
 function c_block(str: string): Block{
     switch (str){
         case "N/A":
-            return ""
+            return "N/A"
         case "s":
             return "s"
         case "p":

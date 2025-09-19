@@ -16,7 +16,7 @@
   "boiling": "°C",
   "boiling_absolute": "K",
   "phase": [
-    "",
+    "N/A",
     "gas",
     "liquid",
     "solid"
@@ -51,7 +51,7 @@
   "name_alternative": "",
   "name_allotropes": "",
   "block": [
-    "",
+    "N/A",
     "s",
     "p",
     "d",
@@ -74,7 +74,7 @@
   ],
   "electron_configuration": "",
   "color": [
-    "",
+    "N/A",
     "colorless",
     "silver",
     "slate_gray",
@@ -87,14 +87,14 @@
   ],
   "discovery": "",
   "gas_phase": [
-    "",
+    "N/A",
     "diatomic",
     "monoatomic"
   ],
   "cas_number": "",
   "cid_number": "",
   "electrical_type": [
-    "",
+    "N/A",
     "conductor",
     "insulator",
     "semiconductor"
@@ -103,7 +103,7 @@
   "resistivity": "Ω m",
   "superconducting_point": "K",
   "magnetic_type": [
-    "",
+    "N/A",
     "diamagnetic",
     "paramagnetic",
     "antiferromagnetic",
@@ -123,7 +123,7 @@
   "radius_covalent": "pm",
   "radius_van_der_waals": "pm",
   "crystal_structure": [
-    "",
+    "N/A",
     "simple_hexagonal",
     "simple_trigonal",
     "face_centered_cubic",
@@ -134,7 +134,9 @@
     "face_centered_orthorhombic",
     "base_orthorhombic",
     "simple_monoclinic",
-    "simple_orthorhombic"
+    "simple_orthorhombic",
+    "centered_tetragonal",
+    "simple_cubic"
   ],
   "lattice_angles": "",
   "lattice_constants": "pm",
@@ -143,7 +145,7 @@
   "half_life": "",
   "lifetime": "",
   "decay_mode": [
-    "",
+    "N/A",
     "beta_decay",
     "electron_capture",
     "alpha_emission",
